@@ -16,8 +16,8 @@ make install
 1.npm start
 ```
 ## O que falta desenvolver??
-1.Pagina de profile
-2.Pagina de envio de confimaçao de email
+1.Página de profile
+2.Página de envio de confimação de email
 
 ## Meta
 
