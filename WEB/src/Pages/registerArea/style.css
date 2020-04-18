@@ -1,0 +1,101 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.center{
+    max-width: 1100px;
+    padding: 0 2%;
+    margin: 0 auto;
+}
+
+section.main{
+    background: linear-gradient(white,#D3D8E8);
+    padding: 40px 0;
+}
+.img-shared{
+float: left;
+width: 70%;
+}
+.img-shared img{
+    max-width: 100%;
+}
+.abrir-conta{
+    width: 30%;
+    float: left;
+}
+.abrir-conta h2{
+    color: black;
+    font-size: 26px;
+}
+
+.abrir-conta h3{
+    font-size: 19px;
+    color:rgb(30, 30, 30);
+    margin-top: 8px;
+    font-weight: normal;
+}
+
+form.criar-conta{
+    margin-top: 10px;
+}
+
+.w50{
+    width: 50%;
+    padding: 0 5px;
+    float: left;
+}
+
+.w100{
+    padding: 0 5px;
+    width: 100%;
+    float: left;
+}
+
+form.criar-conta input{
+    width: 100%;
+    margin-top: 8px;
+}
+
+form.criar-conta input[type=email],
+form.criar-conta input[type=text],
+form.criar-conta input[type=password]{
+    height: 40px;
+    padding-left: 10px;
+    font-size: 20px;
+    border:1px solid #a5dcff;
+}
+
+form.criar-conta input[type=submit]{
+height:40px ;
+background: linear-gradient(#67ae55,#578843);
+color: white;
+cursor: pointer;
+border: 0;
+max-width: 200px;
+font-size: 19px;
+}
+form .w100 h2{
+    margin-top: 10px;
+    color: #1d2129;
+    font-size: 22px;
+    font-weight: normal;
+}
+form select.nascimento{
+    float: left;
+    margin-top: 10px;
+
+}
+.input-radio{
+    margin: 8px 10px;
+    float: left;
+}
+.input-radio h2{
+display: inline-block;
+}
+.input-radio input[type=radio]{
+    width: auto !important;
+    display: inline-block;
+}
