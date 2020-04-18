@@ -4,16 +4,18 @@
 ## Pagina Principal que contem login e registro
 ![](GITHUBIMG/localhost_3000_.png)
 
-## Installation
-
+## Pré-requisitos para o  perfeito funcionamento da aplicação
+```sh
+1.ultilizar e configurar o mongodb conectar o cluster com a aplicaçao
+2.rodar o servidor node na porta 4005
+```
 ## Development setup
 
 como instalar todas as dependências de desenvolvimento e como executar algum conjunto de testes automatizado. Faça isso potencialmente para várias plataformas..
 
 ```sh
-make install
 1.npm install
-1.npm start
+2.npm start
 ```
 ## O que falta desenvolver??
 1.Página de profile
