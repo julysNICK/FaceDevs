@@ -1,5 +1,5 @@
 # DevsBook
-## O projeto DevsBook foi inspirado no facebook e no projeto foi ultilizado tecnologias como  o REACT,NODEJS,EXPRESS,PASSPORT,HAPPIJOIN  o objetivo do projeto serviu para desenvolver habilidades em node e react o "DevsBok" realiza  registro e  login do dev.
+## O projeto DevsBook foi inspirado no facebook e no projeto foi ultilizado tecnologias como  o REACT,NODEJS,EXPRESS,PASSPORT,HAPPIJOIN  o objetivo do projeto serviu para desenvolver habilidades em node e react o "DevsBook" realiza  registro e  login do dev.
 
 ## Pagina Principal que contem login e registro
 ![](GITHUBIMG/localhost_3000_.png)
